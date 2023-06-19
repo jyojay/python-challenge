@@ -12,7 +12,7 @@ PyPoll folder which includes:
 
 Note:
 
-- Python 3.11 was used
+Python 3.11 was used
 
 Assumption for PyBank assignment:
 
@@ -20,7 +20,8 @@ The csv resource file provided had no duplicate month data which was also sorted
 
 Acknowledgements:
 
-The below links were used to understand how to find maximum key value in a dictionary for the PyPoll assignment however looping method was used to avoid using function not taught in calss 
+- The below links were used to understand how to find maximum key value in a dictionary for the PyPoll assignment however looping method was used to avoid using max function not taught in calss 
 1) https://datagy.io/python-get-dictionary-key-with-max-value/
 2) https://www.geeksforgeeks.org/python-get-key-with-maximum-value-in-dictionary/
-Data Bootcamp class activities were referenced as well to complete the assignment.
+
+- Data Bootcamp class activities were referenced as well to complete the assignment.
